@@ -54,7 +54,7 @@ small {
 
 /* *IDs */
 #message_zone {
- 	  margin: 2px $MarginContainer-1;
+ 	  margin: 2px $MarginContainer - 1;
 		padding: 0.5em 0.5em 0 0.5em;
 		border:1px solid $MainColor;
 		text-align: center;
@@ -68,7 +68,7 @@ small {
 		font-size:1em;
 		font-family:serif;
   }
-	/* Inheritance */ 
+	/* Inheritance */
 	%CommonTitles {
 		font-weight: bold;
 	}
